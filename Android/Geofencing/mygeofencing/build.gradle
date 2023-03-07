@@ -45,6 +45,6 @@ dependencies {
 task copyPlugin (type:Copy) {
     dependsOn assemble
     from('build/outputs/aar')
-    into('D:/geofenceDemo/Assets/plugins/Android')
+    into('D:/UnityGeofenceDemo/Assets/plugins/Android')
     include(project.name + '-release.aar')
 }

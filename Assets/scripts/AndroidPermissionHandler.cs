@@ -24,6 +24,7 @@ public class AndroidPermissionHandler : MonoBehaviour
         permissions = new Stack<string>();
         permissions.Push(Permission.CoarseLocation);
         permissions.Push(Permission.FineLocation);
+        
         AskForPermissions();
     }
     void AskForPermissions()

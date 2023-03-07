@@ -42,7 +42,6 @@ public class Bridge extends Application
     public Bridge(Context ctx)
     {
         context = ctx;
-        //geofencingClient = new GeofencingClient(context);
         geofencingClient = LocationServices.getGeofencingClient(context);
         geofenceList = new ArrayList<>();
         builder = new GeofencingRequest.Builder();
@@ -59,7 +58,10 @@ public class Bridge extends Application
         geofencingClient = LocationServices.getGeofencingClient(context);
         geofenceList = new ArrayList<>();
         builder = new GeofencingRequest.Builder();
+
     }
+
+
     public void addGeoFence(String id, double latitude, double longitude,float radius,int loiteringDelay)
     {
         geofenceList.add(new Geofence.Builder()
