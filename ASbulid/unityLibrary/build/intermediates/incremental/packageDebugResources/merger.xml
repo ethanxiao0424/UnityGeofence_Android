@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="main$Generated" generated="true" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="D:\UnityGeofenceDemo\ASbulid\unityLibrary\src\main\res"/><source path="D:\UnityGeofenceDemo\ASbulid\unityLibrary\build\generated\res\rs\debug"/><source path="D:\UnityGeofenceDemo\ASbulid\unityLibrary\build\generated\res\resValues\debug"/></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="main" generated-set="main$Generated" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="D:\UnityGeofenceDemo\ASbulid\unityLibrary\src\main\res"><file name="example_appwidget_preview" path="D:\UnityGeofenceDemo\ASbulid\unityLibrary\src\main\res\drawable-nodpi\example_appwidget_preview.png" qualifiers="nodpi-v4" type="drawable"/><file name="app_widget_background" path="D:\UnityGeofenceDemo\ASbulid\unityLibrary\src\main\res\drawable-v21\app_widget_background.xml" qualifiers="v21" type="drawable"/><file name="app_widget_inner_view_background" path="D:\UnityGeofenceDemo\ASbulid\unityLibrary\src\main\res\drawable-v21\app_widget_inner_view_background.xml" qualifiers="v21" type="drawable"/><file name="my_app_widget" path="D:\UnityGeofenceDemo\ASbulid\unityLibrary\src\main\res\layout\my_app_widget.xml" qualifiers="" type="layout"/><file path="D:\UnityGeofenceDemo\ASbulid\unityLibrary\src\main\res\values\attrs.xml" qualifiers=""><declare-styleable name="AppWidgetAttrs">
+        <attr format="dimension" name="appWidgetPadding"/>
+        <attr format="dimension" name="appWidgetInnerRadius"/>
+        <attr format="dimension" name="appWidgetRadius"/>
+    </declare-styleable></file><file path="D:\UnityGeofenceDemo\ASbulid\unityLibrary\src\main\res\values\colors.xml" qualifiers=""><color name="light_blue_50">#FFE1F5FE</color><color name="light_blue_200">#FF81D4FA</color><color name="light_blue_600">#FF039BE5</color><color name="light_blue_900">#FF01579B</color></file><file path="D:\UnityGeofenceDemo\ASbulid\unityLibrary\src\main\res\values\dimens.xml" qualifiers=""><dimen name="widget_margin">0dp</dimen></file><file path="D:\UnityGeofenceDemo\ASbulid\unityLibrary\src\main\res\values\freeformwindow.xml" qualifiers=""><string name="FreeformWindowSize_maximize"/><string name="FreeformWindowSize_tablet"/><string name="FreeformWindowSize_phone"/><string name="FreeformWindowOrientation_landscape"/><string name="FreeformWindowOrientation_portrait"/></file><file path="D:\UnityGeofenceDemo\ASbulid\unityLibrary\src\main\res\values\ids.xml" qualifiers=""><item name="unitySurfaceView" type="id"/></file><file path="D:\UnityGeofenceDemo\ASbulid\unityLibrary\src\main\res\values\strings.xml" qualifiers=""><string name="appwidget_text">EXAMPLE</string><string name="add_widget">Add widget</string><string name="app_widget_description">This is an app widget description</string></file><file path="D:\UnityGeofenceDemo\ASbulid\unityLibrary\src\main\res\values\styles.xml" qualifiers=""><style name="UnityThemeSelector" parent="BaseUnityTheme">
+        <item name="android:windowBackground">@android:color/black</item>
+    </style><style name="BaseUnityTheme" parent="android:Theme.Holo.Light.NoActionBar.Fullscreen"/><style name="UnityThemeSelector.Translucent" parent="@style/UnityThemeSelector">
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowBackground">@android:color/transparent</item>
+    </style><style name="Widget.ASbulid.AppWidget.Container" parent="android:Widget">
+        <item name="android:id">@android:id/background</item>
+        <item name="android:background">?android:attr/colorBackground</item>
+    </style><style name="Widget.ASbulid.AppWidget.InnerView" parent="android:Widget">
+        <item name="android:background">?android:attr/colorBackground</item>
+        <item name="android:textColor">?android:attr/textColorPrimary</item>
+    </style></file><file path="D:\UnityGeofenceDemo\ASbulid\unityLibrary\src\main\res\values\themes.xml" qualifiers=""><style name="Theme.ASbulid.AppWidgetContainerParent" parent="@android:style/Theme.DeviceDefault">
+        
+        <item name="appWidgetRadius">16dp</item>
+        
+        <item name="appWidgetInnerRadius">8dp</item>
+    </style><style name="Theme.ASbulid.AppWidgetContainer" parent="Theme.ASbulid.AppWidgetContainerParent">
+        
+        <item name="appWidgetPadding">16dp</item>
+    </style></file><file path="D:\UnityGeofenceDemo\ASbulid\unityLibrary\src\main\res\values-v21\styles.xml" qualifiers="v21"><style name="BaseUnityTheme" parent="android:Theme.Material.Light.NoActionBar.Fullscreen"/><style name="Widget.ASbulid.AppWidget.Container" parent="android:Widget">
+        <item name="android:id">@android:id/background</item>
+        <item name="android:padding">?attr/appWidgetPadding</item>
+        <item name="android:background">@drawable/app_widget_background</item>
+    </style><style name="Widget.ASbulid.AppWidget.InnerView" parent="android:Widget">
+        <item name="android:padding">?attr/appWidgetPadding</item>
+        <item name="android:background">@drawable/app_widget_inner_view_background</item>
+        <item name="android:textColor">?android:attr/textColorPrimary</item>
+    </style></file><file path="D:\UnityGeofenceDemo\ASbulid\unityLibrary\src\main\res\values-v28\styles.xml" qualifiers="v28"><style name="BaseUnityTheme" parent="android:Theme.Material.Light.NoActionBar.Fullscreen">
+    <item name="android:windowLayoutInDisplayCutoutMode">shortEdges</item>
+</style></file><file path="D:\UnityGeofenceDemo\ASbulid\unityLibrary\src\main\res\values-v30\freeformwindow.xml" qualifiers="v30"><string name="FreeformWindowSize_maximize">maximize</string><string name="FreeformWindowSize_tablet">tablet</string><string name="FreeformWindowSize_phone">phone</string><string name="FreeformWindowOrientation_landscape">landscape</string><string name="FreeformWindowOrientation_portrait">portrait</string></file><file name="my_app_widget_info" path="D:\UnityGeofenceDemo\ASbulid\unityLibrary\src\main\res\xml\my_app_widget_info.xml" qualifiers="" type="xml"/></source><source path="D:\UnityGeofenceDemo\ASbulid\unityLibrary\build\generated\res\rs\debug"/><source path="D:\UnityGeofenceDemo\ASbulid\unityLibrary\build\generated\res\resValues\debug"/></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="debug$Generated" generated="true" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="D:\UnityGeofenceDemo\ASbulid\unityLibrary\src\debug\res"/></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="debug" generated-set="debug$Generated" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="D:\UnityGeofenceDemo\ASbulid\unityLibrary\src\debug\res"/></dataSet><mergedItems><configuration qualifiers=""><declare-styleable name="AppWidgetAttrs">
+        <attr format="dimension" name="appWidgetPadding"/>
+        <attr format="dimension" name="appWidgetInnerRadius"/>
+        <attr format="dimension" name="appWidgetRadius"/>
+    </declare-styleable></configuration></mergedItems></merger>

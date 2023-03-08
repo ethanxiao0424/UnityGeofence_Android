@@ -1,0 +1,66 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\UnityGeofenceDemo\\ASbulid\\launcher\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v21\\values-v21.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\iblem\\.gradle\\caches\\transforms-2\\files-2.1\\87aa3b8d67c582e8dc7adee7edfa0fa3\\core-1.2.0\\res\\values-v21\\values-v21.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,13",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,159,223,290,354,470,596,722,850,1022",
+                        "endLines": "2,3,4,5,6,7,8,9,12,17",
+                        "endColumns": "103,63,66,63,115,125,125,127,12,12",
+                        "endOffsets": "154,218,285,349,465,591,717,845,1017,1355"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,8,9,10,11,22,25",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,159,223,290,458,574,700,826,1578,1750",
+                        "endLines": "2,3,4,5,8,9,10,11,24,29",
+                        "endColumns": "103,63,66,63,115,125,125,127,12,12",
+                        "endOffsets": "154,218,285,349,569,695,821,949,1745,2083"
+                    }
+                },
+                {
+                    "source": "D:\\UnityGeofenceDemo\\ASbulid\\launcher\\src\\main\\res\\values-v21\\styles.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "0",
+                        "startOffsets": "53",
+                        "endLines": "3",
+                        "endColumns": "8",
+                        "endOffsets": "153"
+                    },
+                    "to": {
+                        "startLines": "6",
+                        "startColumns": "4",
+                        "startOffsets": "354",
+                        "endLines": "7",
+                        "endColumns": "8",
+                        "endOffsets": "453"
+                    }
+                },
+                {
+                    "source": "D:\\UnityGeofenceDemo\\ASbulid\\unityLibrary\\build\\intermediates\\packaged_res\\debug\\values-v21\\values-v21.xml",
+                    "from": {
+                        "startLines": "3,8",
+                        "startColumns": "4,4",
+                        "startOffsets": "151,450",
+                        "endLines": "7,12",
+                        "endColumns": "12,12",
+                        "endOffsets": "445,770"
+                    },
+                    "to": {
+                        "startLines": "12,17",
+                        "startColumns": "4,4",
+                        "startOffsets": "954,1253",
+                        "endLines": "16,21",
+                        "endColumns": "12,12",
+                        "endOffsets": "1248,1573"
+                    }
+                }
+            ]
+        }
+    ]
+}

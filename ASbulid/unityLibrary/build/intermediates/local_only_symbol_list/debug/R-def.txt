@@ -1,0 +1,34 @@
+R_DEF: Internal format may change without notice
+local
+attr? appWidgetInnerRadius
+attr? appWidgetPadding
+attr? appWidgetRadius
+color light_blue_200
+color light_blue_50
+color light_blue_600
+color light_blue_900
+dimen widget_margin
+drawable app_widget_background
+drawable app_widget_inner_view_background
+drawable example_appwidget_preview
+id button_Hello
+id textView_TimeLabel
+id unitySurfaceView
+layout my_app_widget
+string FreeformWindowOrientation_landscape
+string FreeformWindowOrientation_portrait
+string FreeformWindowSize_maximize
+string FreeformWindowSize_phone
+string FreeformWindowSize_tablet
+string add_widget
+string app_widget_description
+string appwidget_text
+style BaseUnityTheme
+style Theme.ASbulid.AppWidgetContainer
+style Theme.ASbulid.AppWidgetContainerParent
+style UnityThemeSelector
+style UnityThemeSelector.Translucent
+style Widget.ASbulid.AppWidget.Container
+style Widget.ASbulid.AppWidget.InnerView
+styleable AppWidgetAttrs appWidgetPadding appWidgetInnerRadius appWidgetRadius
+xml my_app_widget_info

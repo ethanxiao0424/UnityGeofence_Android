@@ -1,0 +1,2 @@
+com/DefaultCompany/geofenceDemo/BuildConfig.java
+ com.DefaultCompany.geofenceDemo.BuildConfig

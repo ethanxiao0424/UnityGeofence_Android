@@ -1,0 +1,12 @@
+com/unity3d/player/BuildConfig.java
+ com.unity3d.player.BuildConfig
+com/unity3d/player/UnityPlayerActivity.java
+ com.unity3d.player.UnityPlayerActivity
+com/unity3d/player/MyService.java
+ com.unity3d.player.MyService
+ com.unity3d.player.MyService$1
+ com.unity3d.player.MyService$2
+com/unity3d/player/databinding/MyAppWidgetBinding.java
+ com.unity3d.player.databinding.MyAppWidgetBinding
+com/unity3d/player/MyAppWidget.java
+ com.unity3d.player.MyAppWidget
