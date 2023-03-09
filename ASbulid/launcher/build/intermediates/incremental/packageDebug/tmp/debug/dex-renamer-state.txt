@@ -1,13 +1,10 @@
-#Wed Mar 08 10:26:12 CST 2023
-path.3=12/classes.dex
-path.2=0/classes.dex
-path.1=1/classes.dex
+#Wed Mar 08 16:52:43 CST 2023
+path.2=classes_0.dex
+path.1=classes.dex
 path.0=classes.dex
-base.3=D\:\\UnityGeofenceDemo\\ASbulid\\launcher\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\12\\classes.dex
-base.2=D\:\\UnityGeofenceDemo\\ASbulid\\launcher\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\0\\classes.dex
-base.1=D\:\\UnityGeofenceDemo\\ASbulid\\launcher\\build\\intermediates\\dex\\debug\\mergeLibDexDebug\\1\\classes.dex
-base.0=D\:\\UnityGeofenceDemo\\ASbulid\\launcher\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes.dex
-renamed.3=classes4.dex
 renamed.2=classes3.dex
 renamed.1=classes2.dex
 renamed.0=classes.dex
+base.2=D\:\\UnityGeofenceDemo\\ASbulid\\launcher\\build\\intermediates\\dex\\debug\\mergeLibDexDebug\\classes_0.dex
+base.1=D\:\\UnityGeofenceDemo\\ASbulid\\launcher\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\classes.dex
+base.0=D\:\\UnityGeofenceDemo\\ASbulid\\launcher\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes.dex

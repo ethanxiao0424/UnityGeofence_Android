@@ -4,6 +4,7 @@ apply plugin: 'com.android.library'
 dependencies {
     implementation fileTree(dir: 'libs', include: ['*.jar'])
     implementation 'com.google.android.gms:play-services-location:21.0.1'
+    implementation(name: 'myappwidget-release', ext:'aar')
     implementation(name: 'mygeofencing-release', ext:'aar')
 
 }
@@ -39,9 +40,6 @@ android {
 
     packagingOptions {
         doNotStrip '*/armeabi-v7a/*.so'
-    }
-    buildFeatures {
-        viewBinding true
     }
 }
 

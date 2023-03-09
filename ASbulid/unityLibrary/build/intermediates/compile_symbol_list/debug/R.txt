@@ -238,12 +238,16 @@ int style TextAppearance_Compat_Notification_Time 0x0
 int style TextAppearance_Compat_Notification_Title 0x0
 int style Theme_ASbulid_AppWidgetContainer 0x0
 int style Theme_ASbulid_AppWidgetContainerParent 0x0
+int style Theme_Geofencing_AppWidgetContainer 0x0
+int style Theme_Geofencing_AppWidgetContainerParent 0x0
 int style UnityThemeSelector 0x0
 int style UnityThemeSelector_Translucent 0x0
 int style Widget_ASbulid_AppWidget_Container 0x0
 int style Widget_ASbulid_AppWidget_InnerView 0x0
 int style Widget_Compat_NotificationActionContainer 0x0
 int style Widget_Compat_NotificationActionText 0x0
+int style Widget_Geofencing_AppWidget_Container 0x0
+int style Widget_Geofencing_AppWidget_InnerView 0x0
 int style Widget_Support_CoordinatorLayout 0x0
 int[] styleable AppWidgetAttrs { 0x0, 0x0, 0x0 }
 int styleable AppWidgetAttrs_appWidgetInnerRadius 0

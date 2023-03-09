@@ -1,4 +1,5 @@
 package com.ethan.mygeofencing;
+import android.content.Intent;
 import android.os.Bundle;
 import android.util.Log;
 
@@ -22,5 +23,15 @@ public class myUnityActivity extends UnityPlayerActivity  {
             UnityPlayer.UnitySendMessage("AndroidGeofenceCaller", "GetMessageFromAndroid", "onStart");
             Log.i("TESTTAG", "Running MyUnityPlayerActivityOnStart.");
         }
+    }
+
+    @Override
+    protected void onDestroy() {
+        //stopService(mServiceIntent);
+        Intent broadcastIntent = new Intent();
+        broadcastIntent.setAction("restartservice");
+        broadcastIntent.setClass(this, com.ethan.myappwidget.Restarter.class);
+        this.sendBroadcast(broadcastIntent);
+        super.onDestroy();
     }
 }

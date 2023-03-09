@@ -253,13 +253,17 @@ int style TextAppearance_Compat_Notification_Time 0x7f0a0004
 int style TextAppearance_Compat_Notification_Title 0x7f0a0005
 int style Theme_ASbulid_AppWidgetContainer 0x7f0a0006
 int style Theme_ASbulid_AppWidgetContainerParent 0x7f0a0007
-int style UnityThemeSelector 0x7f0a0008
-int style UnityThemeSelector_Translucent 0x7f0a0009
-int style Widget_ASbulid_AppWidget_Container 0x7f0a000a
-int style Widget_ASbulid_AppWidget_InnerView 0x7f0a000b
-int style Widget_Compat_NotificationActionContainer 0x7f0a000c
-int style Widget_Compat_NotificationActionText 0x7f0a000d
-int style Widget_Support_CoordinatorLayout 0x7f0a000e
+int style Theme_Geofencing_AppWidgetContainer 0x7f0a0008
+int style Theme_Geofencing_AppWidgetContainerParent 0x7f0a0009
+int style UnityThemeSelector 0x7f0a000a
+int style UnityThemeSelector_Translucent 0x7f0a000b
+int style Widget_ASbulid_AppWidget_Container 0x7f0a000c
+int style Widget_ASbulid_AppWidget_InnerView 0x7f0a000d
+int style Widget_Compat_NotificationActionContainer 0x7f0a000e
+int style Widget_Compat_NotificationActionText 0x7f0a000f
+int style Widget_Geofencing_AppWidget_Container 0x7f0a0010
+int style Widget_Geofencing_AppWidget_InnerView 0x7f0a0011
+int style Widget_Support_CoordinatorLayout 0x7f0a0012
 int[] styleable AppWidgetAttrs { 0x7f010001, 0x7f010002, 0x7f010003 }
 int styleable AppWidgetAttrs_appWidgetInnerRadius 0
 int styleable AppWidgetAttrs_appWidgetPadding 1

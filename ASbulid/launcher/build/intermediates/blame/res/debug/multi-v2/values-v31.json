@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\UnityGeofenceDemo\\ASbulid\\launcher\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v31\\values-v31.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\iblem\\.gradle\\caches\\transforms-2\\files-2.1\\ba07c92f9a7cbcae35c15d31fb53912f\\jetified-myappwidget-release\\res\\values-v31\\values-v31.xml",
+                    "from": {
+                        "startLines": "2,6,11",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,284,586",
+                        "endLines": "5,10,15",
+                        "endColumns": "12,12,12",
+                        "endOffsets": "279,581,909"
+                    }
+                }
+            ]
+        }
+    ]
+}

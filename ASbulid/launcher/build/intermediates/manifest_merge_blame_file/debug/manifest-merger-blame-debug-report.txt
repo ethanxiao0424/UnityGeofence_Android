@@ -25,205 +25,232 @@
 17-->D:\UnityGeofenceDemo\ASbulid\launcher\src\main\AndroidManifest.xml:3:106-134
 18
 19    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
-19-->[:unityLibrary] D:\UnityGeofenceDemo\ASbulid\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:9:5-81
-19-->[:unityLibrary] D:\UnityGeofenceDemo\ASbulid\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:9:22-78
+19-->[:unityLibrary] D:\UnityGeofenceDemo\ASbulid\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:12:5-81
+19-->[:unityLibrary] D:\UnityGeofenceDemo\ASbulid\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:12:22-78
 20    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
-20-->[:unityLibrary] D:\UnityGeofenceDemo\ASbulid\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:10:5-79
-20-->[:unityLibrary] D:\UnityGeofenceDemo\ASbulid\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:10:22-76
+20-->[:unityLibrary] D:\UnityGeofenceDemo\ASbulid\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:13:5-79
+20-->[:unityLibrary] D:\UnityGeofenceDemo\ASbulid\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:13:22-76
 21    <uses-permission android:name="android.permission.ACCESS_BACKGROUND_LOCATION" />
-21-->[:unityLibrary] D:\UnityGeofenceDemo\ASbulid\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:11:5-85
-21-->[:unityLibrary] D:\UnityGeofenceDemo\ASbulid\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:11:22-82
+21-->[:unityLibrary] D:\UnityGeofenceDemo\ASbulid\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:14:5-85
+21-->[:unityLibrary] D:\UnityGeofenceDemo\ASbulid\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:14:22-82
 22    <uses-permission android:name="android.permission.POST_NOTIFICATIONS" />
-22-->[:unityLibrary] D:\UnityGeofenceDemo\ASbulid\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:12:5-77
-22-->[:unityLibrary] D:\UnityGeofenceDemo\ASbulid\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:12:22-74
-23
-24    <uses-feature android:glEsVersion="0x00030000" />
-24-->[:unityLibrary] D:\UnityGeofenceDemo\ASbulid\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:14:5-54
-24-->[:unityLibrary] D:\UnityGeofenceDemo\ASbulid\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:14:19-51
-25    <uses-feature
-25-->[:unityLibrary] D:\UnityGeofenceDemo\ASbulid\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:15:5-17:36
-26        android:name="android.hardware.vulkan.version"
-26-->[:unityLibrary] D:\UnityGeofenceDemo\ASbulid\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:16:9-55
-27        android:required="false" />
-27-->[:unityLibrary] D:\UnityGeofenceDemo\ASbulid\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:17:9-33
-28
-29    <uses-permission android:name="android.permission.INTERNET" />
-29-->[:unityLibrary] D:\UnityGeofenceDemo\ASbulid\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:19:5-67
-29-->[:unityLibrary] D:\UnityGeofenceDemo\ASbulid\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:19:22-64
-30
-31    <uses-feature
-31-->[:unityLibrary] D:\UnityGeofenceDemo\ASbulid\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:21:5-23:36
-32        android:name="android.hardware.touchscreen"
-32-->[:unityLibrary] D:\UnityGeofenceDemo\ASbulid\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:22:9-52
-33        android:required="false" />
-33-->[:unityLibrary] D:\UnityGeofenceDemo\ASbulid\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:23:9-33
-34    <uses-feature
-34-->[:unityLibrary] D:\UnityGeofenceDemo\ASbulid\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:24:5-26:36
-35        android:name="android.hardware.touchscreen.multitouch"
-35-->[:unityLibrary] D:\UnityGeofenceDemo\ASbulid\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:25:9-63
-36        android:required="false" />
-36-->[:unityLibrary] D:\UnityGeofenceDemo\ASbulid\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:26:9-33
-37    <uses-feature
-37-->[:unityLibrary] D:\UnityGeofenceDemo\ASbulid\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:27:5-29:36
-38        android:name="android.hardware.touchscreen.multitouch.distinct"
-38-->[:unityLibrary] D:\UnityGeofenceDemo\ASbulid\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:28:9-72
-39        android:required="false" />
-39-->[:unityLibrary] D:\UnityGeofenceDemo\ASbulid\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:29:9-33
-40
-41    <application
-41-->D:\UnityGeofenceDemo\ASbulid\launcher\src\main\AndroidManifest.xml:4:3-83
-42        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
-42-->[androidx.core:core:1.2.0] C:\Users\iblem\.gradle\caches\transforms-2\files-2.1\87aa3b8d67c582e8dc7adee7edfa0fa3\core-1.2.0\AndroidManifest.xml:24:18-86
-43        android:debuggable="true"
-44        android:extractNativeLibs="true"
-44-->[:unityLibrary] D:\UnityGeofenceDemo\ASbulid\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:31:18-50
-45        android:icon="@mipmap/app_icon"
-45-->D:\UnityGeofenceDemo\ASbulid\launcher\src\main\AndroidManifest.xml:4:49-80
-46        android:label="@string/app_name" >
-46-->D:\UnityGeofenceDemo\ASbulid\launcher\src\main\AndroidManifest.xml:4:16-48
-47        <service
-47-->[:unityLibrary] D:\UnityGeofenceDemo\ASbulid\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:32:9-35:39
-48            android:name="com.unity3d.player.MyService"
-48-->[:unityLibrary] D:\UnityGeofenceDemo\ASbulid\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:33:13-56
-49            android:enabled="true"
-49-->[:unityLibrary] D:\UnityGeofenceDemo\ASbulid\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:34:13-35
+22-->[:unityLibrary] D:\UnityGeofenceDemo\ASbulid\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:15:5-77
+22-->[:unityLibrary] D:\UnityGeofenceDemo\ASbulid\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:15:22-74
+23    <uses-permission android:name="android.permission.FOREGROUND_SERVICE" />
+23-->[:unityLibrary] D:\UnityGeofenceDemo\ASbulid\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:16:5-77
+23-->[:unityLibrary] D:\UnityGeofenceDemo\ASbulid\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:16:22-74
+24
+25    <uses-feature android:glEsVersion="0x00030000" />
+25-->[:unityLibrary] D:\UnityGeofenceDemo\ASbulid\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:44:5-54
+25-->[:unityLibrary] D:\UnityGeofenceDemo\ASbulid\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:44:19-51
+26    <uses-feature
+26-->[:unityLibrary] D:\UnityGeofenceDemo\ASbulid\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:45:5-47:36
+27        android:name="android.hardware.vulkan.version"
+27-->[:unityLibrary] D:\UnityGeofenceDemo\ASbulid\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:46:9-55
+28        android:required="false" />
+28-->[:unityLibrary] D:\UnityGeofenceDemo\ASbulid\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:47:9-33
+29
+30    <uses-permission android:name="android.permission.INTERNET" />
+30-->[:unityLibrary] D:\UnityGeofenceDemo\ASbulid\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:49:5-67
+30-->[:unityLibrary] D:\UnityGeofenceDemo\ASbulid\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:49:22-64
+31
+32    <uses-feature
+32-->[:unityLibrary] D:\UnityGeofenceDemo\ASbulid\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:51:5-53:36
+33        android:name="android.hardware.touchscreen"
+33-->[:unityLibrary] D:\UnityGeofenceDemo\ASbulid\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:52:9-52
+34        android:required="false" />
+34-->[:unityLibrary] D:\UnityGeofenceDemo\ASbulid\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:53:9-33
+35    <uses-feature
+35-->[:unityLibrary] D:\UnityGeofenceDemo\ASbulid\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:54:5-56:36
+36        android:name="android.hardware.touchscreen.multitouch"
+36-->[:unityLibrary] D:\UnityGeofenceDemo\ASbulid\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:55:9-63
+37        android:required="false" />
+37-->[:unityLibrary] D:\UnityGeofenceDemo\ASbulid\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:56:9-33
+38    <uses-feature
+38-->[:unityLibrary] D:\UnityGeofenceDemo\ASbulid\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:57:5-59:36
+39        android:name="android.hardware.touchscreen.multitouch.distinct"
+39-->[:unityLibrary] D:\UnityGeofenceDemo\ASbulid\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:58:9-72
+40        android:required="false" />
+40-->[:unityLibrary] D:\UnityGeofenceDemo\ASbulid\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:59:9-33
+41
+42    <application
+42-->D:\UnityGeofenceDemo\ASbulid\launcher\src\main\AndroidManifest.xml:4:3-83
+43        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+43-->[androidx.core:core:1.2.0] C:\Users\iblem\.gradle\caches\transforms-2\files-2.1\4527d81fa1dab2c4adef56282f6f51b4\core-1.2.0\AndroidManifest.xml:24:18-86
+44        android:debuggable="true"
+45        android:extractNativeLibs="true"
+45-->[:unityLibrary] D:\UnityGeofenceDemo\ASbulid\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:61:18-50
+46        android:icon="@mipmap/app_icon"
+46-->D:\UnityGeofenceDemo\ASbulid\launcher\src\main\AndroidManifest.xml:4:49-80
+47        android:label="@string/app_name" >
+47-->D:\UnityGeofenceDemo\ASbulid\launcher\src\main\AndroidManifest.xml:4:16-48
+48        <activity
+48-->[:unityLibrary] D:\UnityGeofenceDemo\ASbulid\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:19:9-21:39
+49            android:name="com.unity3d.player.myUnityActivity"
+49-->[:unityLibrary] D:\UnityGeofenceDemo\ASbulid\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:20:13-62
 50            android:exported="true" />
-50-->[:unityLibrary] D:\UnityGeofenceDemo\ASbulid\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:35:13-36
+50-->[:unityLibrary] D:\UnityGeofenceDemo\ASbulid\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:21:13-36
 51
 52        <receiver
-52-->[:unityLibrary] D:\UnityGeofenceDemo\ASbulid\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:37:9-47:20
-53            android:name="com.unity3d.player.MyAppWidget"
-53-->[:unityLibrary] D:\UnityGeofenceDemo\ASbulid\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:38:13-58
-54            android:exported="false" >
-54-->[:unityLibrary] D:\UnityGeofenceDemo\ASbulid\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:39:13-37
-55            <intent-filter>
-55-->[:unityLibrary] D:\UnityGeofenceDemo\ASbulid\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:40:13-42:29
-56                <action android:name="android.appwidget.action.APPWIDGET_UPDATE" />
-56-->[:unityLibrary] D:\UnityGeofenceDemo\ASbulid\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:41:17-84
-56-->[:unityLibrary] D:\UnityGeofenceDemo\ASbulid\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:41:25-81
-57            </intent-filter>
-58
-59            <meta-data
-59-->[:unityLibrary] D:\UnityGeofenceDemo\ASbulid\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:44:13-46:62
-60                android:name="android.appwidget.provider"
-60-->[:unityLibrary] D:\UnityGeofenceDemo\ASbulid\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:45:17-58
-61                android:resource="@xml/my_app_widget_info" />
-61-->[:unityLibrary] D:\UnityGeofenceDemo\ASbulid\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:46:17-59
-62        </receiver>
-63
-64        <activity
-64-->[:unityLibrary] D:\UnityGeofenceDemo\ASbulid\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:49:9-69:20
-65            android:name="com.ethan.mygeofencing.myUnityActivity"
-65-->[:unityLibrary] D:\UnityGeofenceDemo\ASbulid\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:50:13-66
-66            android:configChanges="mcc|mnc|locale|touchscreen|keyboard|keyboardHidden|navigation|orientation|screenLayout|uiMode|screenSize|smallestScreenSize|fontScale|layoutDirection|density"
-66-->[:unityLibrary] D:\UnityGeofenceDemo\ASbulid\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:51:13-194
-67            android:exported="true"
-67-->[:mygeofencing-release:] C:\Users\iblem\.gradle\caches\transforms-2\files-2.1\558b1de9b824666a3a7aa27fb06326d4\jetified-mygeofencing-release\AndroidManifest.xml:15:13-36
-68            android:hardwareAccelerated="false"
-68-->[:unityLibrary] D:\UnityGeofenceDemo\ASbulid\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:52:13-48
-69            android:launchMode="singleTask"
-69-->[:unityLibrary] D:\UnityGeofenceDemo\ASbulid\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:53:13-44
-70            android:resizeableActivity="false"
-70-->[:unityLibrary] D:\UnityGeofenceDemo\ASbulid\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:54:13-47
-71            android:screenOrientation="fullUser"
-71-->[:unityLibrary] D:\UnityGeofenceDemo\ASbulid\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:55:13-49
-72            android:theme="@style/UnityThemeSelector" >
-72-->[:unityLibrary] D:\UnityGeofenceDemo\ASbulid\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:56:13-54
-73            <intent-filter>
-73-->[:unityLibrary] D:\UnityGeofenceDemo\ASbulid\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:57:13-61:29
-74                <action android:name="android.intent.action.MAIN" />
-74-->[:unityLibrary] D:\UnityGeofenceDemo\ASbulid\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:58:17-69
-74-->[:unityLibrary] D:\UnityGeofenceDemo\ASbulid\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:58:25-66
-75
-76                <category android:name="android.intent.category.LAUNCHER" />
-76-->[:unityLibrary] D:\UnityGeofenceDemo\ASbulid\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:60:17-77
-76-->[:unityLibrary] D:\UnityGeofenceDemo\ASbulid\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:60:27-74
-77            </intent-filter>
-78
-79            <meta-data
-79-->[:unityLibrary] D:\UnityGeofenceDemo\ASbulid\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:63:13-65:40
-80                android:name="unityplayer.UnityActivity"
-80-->[:unityLibrary] D:\UnityGeofenceDemo\ASbulid\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:64:17-57
-81                android:value="true" />
-81-->[:unityLibrary] D:\UnityGeofenceDemo\ASbulid\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:65:17-37
-82            <meta-data
-82-->[:unityLibrary] D:\UnityGeofenceDemo\ASbulid\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:66:13-68:40
-83                android:name="android.notch_support"
-83-->[:unityLibrary] D:\UnityGeofenceDemo\ASbulid\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:67:17-53
-84                android:value="true" />
-84-->[:unityLibrary] D:\UnityGeofenceDemo\ASbulid\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:68:17-37
-85        </activity>
+52-->[:unityLibrary] D:\UnityGeofenceDemo\ASbulid\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:23:9-26:39
+53            android:name="com.unity3d.player.GeofenceBroadcastReceiver"
+53-->[:unityLibrary] D:\UnityGeofenceDemo\ASbulid\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:24:13-72
+54            android:enabled="true"
+54-->[:unityLibrary] D:\UnityGeofenceDemo\ASbulid\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:25:13-35
+55            android:exported="true" />
+55-->[:unityLibrary] D:\UnityGeofenceDemo\ASbulid\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:26:13-36
+56        <receiver
+56-->[:unityLibrary] D:\UnityGeofenceDemo\ASbulid\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:29:9-39:20
+57            android:name="com.unity3d.player.MyAppWidget"
+57-->[:unityLibrary] D:\UnityGeofenceDemo\ASbulid\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:30:13-58
+58            android:exported="false" >
+58-->[:unityLibrary] D:\UnityGeofenceDemo\ASbulid\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:31:13-37
+59            <intent-filter>
+59-->[:unityLibrary] D:\UnityGeofenceDemo\ASbulid\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:32:13-34:29
+60                <action android:name="android.appwidget.action.APPWIDGET_UPDATE" />
+60-->[:unityLibrary] D:\UnityGeofenceDemo\ASbulid\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:33:17-84
+60-->[:unityLibrary] D:\UnityGeofenceDemo\ASbulid\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:33:25-81
+61            </intent-filter>
+62
+63            <meta-data
+63-->[:unityLibrary] D:\UnityGeofenceDemo\ASbulid\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:36:13-38:62
+64                android:name="android.appwidget.provider"
+64-->[:unityLibrary] D:\UnityGeofenceDemo\ASbulid\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:37:17-58
+65                android:resource="@xml/my_app_widget_info" />
+65-->[:unityLibrary] D:\UnityGeofenceDemo\ASbulid\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:38:17-59
+66        </receiver>
+67
+68        <service android:name="com.unity3d.player.MyService" />
+68-->[:unityLibrary] D:\UnityGeofenceDemo\ASbulid\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:41:9-64
+68-->[:unityLibrary] D:\UnityGeofenceDemo\ASbulid\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:41:18-61
+69
+70        <activity
+70-->[:unityLibrary] D:\UnityGeofenceDemo\ASbulid\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:62:9-84:20
+71            android:name="com.ethan.mygeofencing.myUnityActivity"
+71-->[:unityLibrary] D:\UnityGeofenceDemo\ASbulid\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:63:13-66
+72            android:configChanges="mcc|mnc|locale|touchscreen|keyboard|keyboardHidden|navigation|orientation|screenLayout|uiMode|screenSize|smallestScreenSize|fontScale|layoutDirection|density"
+72-->[:unityLibrary] D:\UnityGeofenceDemo\ASbulid\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:64:13-194
+73            android:exported="true"
+73-->[:mygeofencing-release:] C:\Users\iblem\.gradle\caches\transforms-2\files-2.1\4fe25392781dc17453c14d09eb25519c\jetified-mygeofencing-release\AndroidManifest.xml:15:13-36
+74            android:hardwareAccelerated="false"
+74-->[:unityLibrary] D:\UnityGeofenceDemo\ASbulid\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:65:13-48
+75            android:launchMode="singleTask"
+75-->[:unityLibrary] D:\UnityGeofenceDemo\ASbulid\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:66:13-44
+76            android:resizeableActivity="false"
+76-->[:unityLibrary] D:\UnityGeofenceDemo\ASbulid\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:67:13-47
+77            android:screenOrientation="fullUser"
+77-->[:unityLibrary] D:\UnityGeofenceDemo\ASbulid\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:68:13-49
+78            android:theme="@style/UnityThemeSelector" >
+78-->[:unityLibrary] D:\UnityGeofenceDemo\ASbulid\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:69:13-54
+79            <intent-filter>
+79-->[:unityLibrary] D:\UnityGeofenceDemo\ASbulid\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:70:13-76:29
+80                <action android:name="android.intent.action.MAIN" />
+80-->[:unityLibrary] D:\UnityGeofenceDemo\ASbulid\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:71:17-69
+80-->[:unityLibrary] D:\UnityGeofenceDemo\ASbulid\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:71:25-66
+81
+82                <category android:name="android.intent.category.LAUNCHER" />
+82-->[:unityLibrary] D:\UnityGeofenceDemo\ASbulid\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:73:17-77
+82-->[:unityLibrary] D:\UnityGeofenceDemo\ASbulid\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:73:27-74
+83
+84                <action android:name="android.appwidget.action.APPWIDGET_UPDATE" />
+84-->[:unityLibrary] D:\UnityGeofenceDemo\ASbulid\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:33:17-84
+84-->[:unityLibrary] D:\UnityGeofenceDemo\ASbulid\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:33:25-81
+85            </intent-filter>
 86
-87        <meta-data
-87-->[:unityLibrary] D:\UnityGeofenceDemo\ASbulid\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:71:9-73:33
-88            android:name="unity.splash-mode"
-88-->[:unityLibrary] D:\UnityGeofenceDemo\ASbulid\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:72:13-45
-89            android:value="0" />
-89-->[:unityLibrary] D:\UnityGeofenceDemo\ASbulid\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:73:13-30
-90        <meta-data
-90-->[:unityLibrary] D:\UnityGeofenceDemo\ASbulid\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:74:9-76:36
-91            android:name="unity.splash-enable"
-91-->[:unityLibrary] D:\UnityGeofenceDemo\ASbulid\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:75:13-47
-92            android:value="True" />
-92-->[:unityLibrary] D:\UnityGeofenceDemo\ASbulid\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:76:13-33
-93        <meta-data
-93-->[:unityLibrary] D:\UnityGeofenceDemo\ASbulid\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:77:9-79:36
-94            android:name="unity.launch-fullscreen"
-94-->[:unityLibrary] D:\UnityGeofenceDemo\ASbulid\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:78:13-51
-95            android:value="True" />
-95-->[:unityLibrary] D:\UnityGeofenceDemo\ASbulid\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:79:13-33
-96        <meta-data
-96-->[:unityLibrary] D:\UnityGeofenceDemo\ASbulid\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:80:9-82:37
-97            android:name="unity.allow-resizable-window"
-97-->[:unityLibrary] D:\UnityGeofenceDemo\ASbulid\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:81:13-56
-98            android:value="False" />
-98-->[:unityLibrary] D:\UnityGeofenceDemo\ASbulid\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:82:13-34
-99        <meta-data
-99-->[:unityLibrary] D:\UnityGeofenceDemo\ASbulid\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:83:9-85:50
-100            android:name="notch.config"
-100-->[:unityLibrary] D:\UnityGeofenceDemo\ASbulid\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:84:13-40
-101            android:value="portrait|landscape" />
-101-->[:unityLibrary] D:\UnityGeofenceDemo\ASbulid\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:85:13-47
-102
-103        <activity
-103-->[:unityLibrary] D:\UnityGeofenceDemo\ASbulid\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:87:9-89:39
-104            android:name="com.unity3d.player.myUnityActivity"
-104-->[:unityLibrary] D:\UnityGeofenceDemo\ASbulid\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:88:13-62
-105            android:exported="true" />
-105-->[:unityLibrary] D:\UnityGeofenceDemo\ASbulid\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:89:13-36
-106
-107        <receiver
-107-->[:unityLibrary] D:\UnityGeofenceDemo\ASbulid\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:91:9-94:39
-108            android:name="com.unity3d.player.GeofenceBroadcastReceiver"
-108-->[:unityLibrary] D:\UnityGeofenceDemo\ASbulid\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:92:13-72
-109            android:enabled="true"
-109-->[:unityLibrary] D:\UnityGeofenceDemo\ASbulid\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:93:13-35
-110            android:exported="true" />
-110-->[:unityLibrary] D:\UnityGeofenceDemo\ASbulid\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:94:13-36
+87            <meta-data
+87-->[:unityLibrary] D:\UnityGeofenceDemo\ASbulid\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:78:13-80:40
+88                android:name="unityplayer.UnityActivity"
+88-->[:unityLibrary] D:\UnityGeofenceDemo\ASbulid\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:79:17-57
+89                android:value="true" />
+89-->[:unityLibrary] D:\UnityGeofenceDemo\ASbulid\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:80:17-37
+90            <meta-data
+90-->[:unityLibrary] D:\UnityGeofenceDemo\ASbulid\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:81:13-83:40
+91                android:name="android.notch_support"
+91-->[:unityLibrary] D:\UnityGeofenceDemo\ASbulid\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:82:17-53
+92                android:value="true" />
+92-->[:unityLibrary] D:\UnityGeofenceDemo\ASbulid\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:83:17-37
+93        </activity>
+94
+95        <meta-data
+95-->[:unityLibrary] D:\UnityGeofenceDemo\ASbulid\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:86:9-88:33
+96            android:name="unity.splash-mode"
+96-->[:unityLibrary] D:\UnityGeofenceDemo\ASbulid\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:87:13-45
+97            android:value="0" />
+97-->[:unityLibrary] D:\UnityGeofenceDemo\ASbulid\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:88:13-30
+98        <meta-data
+98-->[:unityLibrary] D:\UnityGeofenceDemo\ASbulid\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:89:9-91:36
+99            android:name="unity.splash-enable"
+99-->[:unityLibrary] D:\UnityGeofenceDemo\ASbulid\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:90:13-47
+100            android:value="True" />
+100-->[:unityLibrary] D:\UnityGeofenceDemo\ASbulid\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:91:13-33
+101        <meta-data
+101-->[:unityLibrary] D:\UnityGeofenceDemo\ASbulid\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:92:9-94:36
+102            android:name="unity.launch-fullscreen"
+102-->[:unityLibrary] D:\UnityGeofenceDemo\ASbulid\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:93:13-51
+103            android:value="True" />
+103-->[:unityLibrary] D:\UnityGeofenceDemo\ASbulid\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:94:13-33
+104        <meta-data
+104-->[:unityLibrary] D:\UnityGeofenceDemo\ASbulid\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:95:9-97:37
+105            android:name="unity.allow-resizable-window"
+105-->[:unityLibrary] D:\UnityGeofenceDemo\ASbulid\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:96:13-56
+106            android:value="False" />
+106-->[:unityLibrary] D:\UnityGeofenceDemo\ASbulid\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:97:13-34
+107        <meta-data
+107-->[:unityLibrary] D:\UnityGeofenceDemo\ASbulid\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:98:9-100:50
+108            android:name="notch.config"
+108-->[:unityLibrary] D:\UnityGeofenceDemo\ASbulid\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:99:13-40
+109            android:value="portrait|landscape" />
+109-->[:unityLibrary] D:\UnityGeofenceDemo\ASbulid\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:100:13-47
+110
 111        <receiver
-111-->[:mygeofencing-release:] C:\Users\iblem\.gradle\caches\transforms-2\files-2.1\558b1de9b824666a3a7aa27fb06326d4\jetified-mygeofencing-release\AndroidManifest.xml:17:9-20:39
-112            android:name="com.ethan.mygeofencing.GeofenceBroadcastReceiver"
-112-->[:mygeofencing-release:] C:\Users\iblem\.gradle\caches\transforms-2\files-2.1\558b1de9b824666a3a7aa27fb06326d4\jetified-mygeofencing-release\AndroidManifest.xml:18:13-76
-113            android:enabled="true"
-113-->[:mygeofencing-release:] C:\Users\iblem\.gradle\caches\transforms-2\files-2.1\558b1de9b824666a3a7aa27fb06326d4\jetified-mygeofencing-release\AndroidManifest.xml:19:13-35
-114            android:exported="true" />
-114-->[:mygeofencing-release:] C:\Users\iblem\.gradle\caches\transforms-2\files-2.1\558b1de9b824666a3a7aa27fb06326d4\jetified-mygeofencing-release\AndroidManifest.xml:20:13-36
-115
-116        <activity
-116-->[com.google.android.gms:play-services-base:18.1.0] C:\Users\iblem\.gradle\caches\transforms-2\files-2.1\5041e5ebda2cf5250fb60862b76e54a0\jetified-play-services-base-18.1.0\AndroidManifest.xml:20:9-22:45
-117            android:name="com.google.android.gms.common.api.GoogleApiActivity"
-117-->[com.google.android.gms:play-services-base:18.1.0] C:\Users\iblem\.gradle\caches\transforms-2\files-2.1\5041e5ebda2cf5250fb60862b76e54a0\jetified-play-services-base-18.1.0\AndroidManifest.xml:20:19-85
-118            android:exported="false"
-118-->[com.google.android.gms:play-services-base:18.1.0] C:\Users\iblem\.gradle\caches\transforms-2\files-2.1\5041e5ebda2cf5250fb60862b76e54a0\jetified-play-services-base-18.1.0\AndroidManifest.xml:22:19-43
-119            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
-119-->[com.google.android.gms:play-services-base:18.1.0] C:\Users\iblem\.gradle\caches\transforms-2\files-2.1\5041e5ebda2cf5250fb60862b76e54a0\jetified-play-services-base-18.1.0\AndroidManifest.xml:21:19-78
-120
-121        <meta-data
-121-->[com.google.android.gms:play-services-basement:18.1.0] C:\Users\iblem\.gradle\caches\transforms-2\files-2.1\f48a8717bc15ef8ef12dc4fb4878fb4d\jetified-play-services-basement-18.1.0\AndroidManifest.xml:21:9-23:69
-122            android:name="com.google.android.gms.version"
-122-->[com.google.android.gms:play-services-basement:18.1.0] C:\Users\iblem\.gradle\caches\transforms-2\files-2.1\f48a8717bc15ef8ef12dc4fb4878fb4d\jetified-play-services-basement-18.1.0\AndroidManifest.xml:22:13-58
-123            android:value="@integer/google_play_services_version" />
-123-->[com.google.android.gms:play-services-basement:18.1.0] C:\Users\iblem\.gradle\caches\transforms-2\files-2.1\f48a8717bc15ef8ef12dc4fb4878fb4d\jetified-play-services-basement-18.1.0\AndroidManifest.xml:23:13-66
-124    </application>
-125
-126</manifest>
+111-->[:myappwidget-release:] C:\Users\iblem\.gradle\caches\transforms-2\files-2.1\f172ba81ec4a9f3dd7c399977467d688\jetified-myappwidget-release\AndroidManifest.xml:10:9-20:20
+112            android:name="com.ethan.myappwidget.MyAppWidget"
+112-->[:myappwidget-release:] C:\Users\iblem\.gradle\caches\transforms-2\files-2.1\f172ba81ec4a9f3dd7c399977467d688\jetified-myappwidget-release\AndroidManifest.xml:11:13-61
+113            android:exported="false" >
+113-->[:myappwidget-release:] C:\Users\iblem\.gradle\caches\transforms-2\files-2.1\f172ba81ec4a9f3dd7c399977467d688\jetified-myappwidget-release\AndroidManifest.xml:12:13-37
+114            <intent-filter>
+114-->[:unityLibrary] D:\UnityGeofenceDemo\ASbulid\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:32:13-34:29
+115                <action android:name="android.appwidget.action.APPWIDGET_UPDATE" />
+115-->[:unityLibrary] D:\UnityGeofenceDemo\ASbulid\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:33:17-84
+115-->[:unityLibrary] D:\UnityGeofenceDemo\ASbulid\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:33:25-81
+116            </intent-filter>
+117
+118            <meta-data
+118-->[:unityLibrary] D:\UnityGeofenceDemo\ASbulid\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:36:13-38:62
+119                android:name="android.appwidget.provider"
+119-->[:unityLibrary] D:\UnityGeofenceDemo\ASbulid\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:37:17-58
+120                android:resource="@xml/my_app_widget_info" />
+120-->[:unityLibrary] D:\UnityGeofenceDemo\ASbulid\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:38:17-59
+121        </receiver>
+122
+123        <service android:name="com.ethan.myappwidget.MyService" />
+123-->[:myappwidget-release:] C:\Users\iblem\.gradle\caches\transforms-2\files-2.1\f172ba81ec4a9f3dd7c399977467d688\jetified-myappwidget-release\AndroidManifest.xml:22:9-67
+123-->[:myappwidget-release:] C:\Users\iblem\.gradle\caches\transforms-2\files-2.1\f172ba81ec4a9f3dd7c399977467d688\jetified-myappwidget-release\AndroidManifest.xml:22:18-64
+124
+125        <receiver
+125-->[:mygeofencing-release:] C:\Users\iblem\.gradle\caches\transforms-2\files-2.1\4fe25392781dc17453c14d09eb25519c\jetified-mygeofencing-release\AndroidManifest.xml:17:9-20:39
+126            android:name="com.ethan.mygeofencing.GeofenceBroadcastReceiver"
+126-->[:mygeofencing-release:] C:\Users\iblem\.gradle\caches\transforms-2\files-2.1\4fe25392781dc17453c14d09eb25519c\jetified-mygeofencing-release\AndroidManifest.xml:18:13-76
+127            android:enabled="true"
+127-->[:mygeofencing-release:] C:\Users\iblem\.gradle\caches\transforms-2\files-2.1\4fe25392781dc17453c14d09eb25519c\jetified-mygeofencing-release\AndroidManifest.xml:19:13-35
+128            android:exported="true" />
+128-->[:mygeofencing-release:] C:\Users\iblem\.gradle\caches\transforms-2\files-2.1\4fe25392781dc17453c14d09eb25519c\jetified-mygeofencing-release\AndroidManifest.xml:20:13-36
+129
+130        <activity
+130-->[com.google.android.gms:play-services-base:18.1.0] C:\Users\iblem\.gradle\caches\transforms-2\files-2.1\2fe805d0724c6f9ee6d19b9f01d50392\play-services-base-18.1.0\AndroidManifest.xml:20:9-22:45
+131            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+131-->[com.google.android.gms:play-services-base:18.1.0] C:\Users\iblem\.gradle\caches\transforms-2\files-2.1\2fe805d0724c6f9ee6d19b9f01d50392\play-services-base-18.1.0\AndroidManifest.xml:20:19-85
+132            android:exported="false"
+132-->[com.google.android.gms:play-services-base:18.1.0] C:\Users\iblem\.gradle\caches\transforms-2\files-2.1\2fe805d0724c6f9ee6d19b9f01d50392\play-services-base-18.1.0\AndroidManifest.xml:22:19-43
+133            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+133-->[com.google.android.gms:play-services-base:18.1.0] C:\Users\iblem\.gradle\caches\transforms-2\files-2.1\2fe805d0724c6f9ee6d19b9f01d50392\play-services-base-18.1.0\AndroidManifest.xml:21:19-78
+134
+135        <meta-data
+135-->[com.google.android.gms:play-services-basement:18.1.0] C:\Users\iblem\.gradle\caches\transforms-2\files-2.1\dae4d6ab41d2d582b03ac5a214336f6a\play-services-basement-18.1.0\AndroidManifest.xml:21:9-23:69
+136            android:name="com.google.android.gms.version"
+136-->[com.google.android.gms:play-services-basement:18.1.0] C:\Users\iblem\.gradle\caches\transforms-2\files-2.1\dae4d6ab41d2d582b03ac5a214336f6a\play-services-basement-18.1.0\AndroidManifest.xml:22:13-58
+137            android:value="@integer/google_play_services_version" />
+137-->[com.google.android.gms:play-services-basement:18.1.0] C:\Users\iblem\.gradle\caches\transforms-2\files-2.1\dae4d6ab41d2d582b03ac5a214336f6a\play-services-basement-18.1.0\AndroidManifest.xml:23:13-66
+138    </application>
+139
+140</manifest>

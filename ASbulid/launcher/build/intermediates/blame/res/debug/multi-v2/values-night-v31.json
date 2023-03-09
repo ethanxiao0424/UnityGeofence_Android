@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\UnityGeofenceDemo\\ASbulid\\launcher\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-night-v31\\values-night-v31.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\iblem\\.gradle\\caches\\transforms-2\\files-2.1\\ba07c92f9a7cbcae35c15d31fb53912f\\jetified-myappwidget-release\\res\\values-night-v31\\values-night-v31.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "5",
+                        "endColumns": "12",
+                        "endOffsets": "279"
+                    }
+                }
+            ]
+        }
+    ]
+}
